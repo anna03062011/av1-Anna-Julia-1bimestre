@@ -79,3 +79,10 @@ p {
   width: 120px;
   border-radius: 15px;
 }
+h1, p {
+  color: #fff;
+}
+
+li {
+  color: #fff;
+}
