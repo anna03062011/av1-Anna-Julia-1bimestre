@@ -31,14 +31,16 @@ body {
   max-width: 500px;
 }
 
-h1 {
-  font-size: 28px;
-}
-
 p {
   opacity: 1.0;
+  color: #fff;
+  font-style: italic;
 }
-
+h1{
+  color: #fff;
+  font-style: italic;
+  font-size: 28px;
+}
 
 .mini-card {
   margin-top: 30px;
@@ -58,15 +60,6 @@ p {
   height: 100px;
 }
 
-
-.img-lado {
-  width: 100px;
-  border-radius: 20px;
-  position: absolute;
-  right: 20px;
-  top: 30px;
-}
-
 .pequeno {
   text-align: center;
 }
@@ -76,21 +69,15 @@ p {
   justify-content: center;
   gap: 30px;
   margin-top: 20px;
-  height: 300px;
-  
-  
+  height: 180px;
 }
 
 .galeria img {
-  width: 120px;
+  width: 300px;
   border-radius: 15px;
 }
-h1, p {
-  color: #fff;
-  font-style: italic;
-}
 
-li {
+ul {
   color: #fff;
 }
 
